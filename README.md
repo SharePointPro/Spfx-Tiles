@@ -10,8 +10,6 @@ The tiles are responsive using bootstrap column framework.
 
 ![image](https://user-images.githubusercontent.com/15274292/131953351-0a99d944-d4fe-4ea8-af97-f04f8b61791c.png)
 
-Icons utilize Font Awesome library.  
-
 **Configuration options**:
 
 ![image](https://user-images.githubusercontent.com/15274292/131953383-e1046820-c9ba-47a4-a501-294c5a809aca.png)
