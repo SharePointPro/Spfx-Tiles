@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "configurable-dashboard-tiles-client-side-solution",
+    "id": "79c974d8-aed6-4b89-b4a6-1948d1b0b115",
+    "version": "1.0.2.9",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": ""
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/configurable-dashboard-tiles.sppkg"
+  }
+}

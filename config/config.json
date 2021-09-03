@@ -1,0 +1,19 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "dashboard-tiles-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/dashboardTiles/DashboardTilesWebPart.js",
+          "manifest": "./src/webparts/dashboardTiles/DashboardTilesWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "DashboardTilesWebPartStrings": "lib/webparts/dashboardTiles/loc/{locale}.js",
+    "sp-client-custom-fields/strings": "node_modules/sp-client-custom-fields/lib/loc/en-us.js"
+  }
+}

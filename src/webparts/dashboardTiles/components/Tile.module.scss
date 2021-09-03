@@ -1,0 +1,80 @@
+
+.titleIcon {
+  color: white;
+  font-size: 24px;
+  vertical-align: top;
+  float:right;
+}
+
+.titleText {
+    color: white;
+    font-size: 23px;
+    text-align: left;
+    vertical-align: top;
+    font-weight: 100;
+}
+
+.tileWrapper {
+  padding: 3px !important;
+}
+
+.card {
+  min-height: 225px !important;
+  cursor: pointer;
+  padding: 21px !important;
+}
+
+.numberText {
+  color: white;
+  text-align: left;
+  font-size: 100px;
+  line-height:100px;
+}
+
+.subTitle {
+  font-size: 16px;
+  display: block;
+  margin-top: 10px;
+  font-weight: normal;
+}
+
+.cardTitle{
+  margin: -21px 0 0 -21px !important;
+  width: calc(100% + 42px);
+  border-bottom: 1px solid rgba(0,0,0,.1);
+  padding: 10px;
+  background-color: rgba(0,0,0,.1);
+  color: white;
+}
+.cardTitleText {
+  font-size: 16px;
+}
+.tileValue {
+  line-height:48px;
+  font-size: 60px;
+}
+.subtitleTile {
+  line-height: revert;
+}
+
+
+// @media (min-width: 1365px) and (max-width: 1500px){
+//   .titleIcon {
+//     font-size: 40px;
+//   }
+  
+//   .titleText {
+//       font-size: 17px;
+//   }
+  
+// }
+
+// @media (min-width: 1024px) and (max-width: 1220px){
+//   .titleIcon {
+//     font-size: 40px;
+//   }
+  
+//   .titleText {
+//       font-size: 17px;
+//   }
+// }
